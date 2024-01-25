@@ -9,4 +9,5 @@
 - [Jeerober](https://github.com/Jeerober)
 - [josephsmorrison](https://github.com/josephsmorrison)
 - [KristenNuss](https://github.com/KristenNuss)
+- [nspencegoon](https://github.com/nspencegoon)
 - [PTnutt](https://github.com/PTnutt)
