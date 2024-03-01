@@ -24,6 +24,7 @@
   - [git](https://git-scm.com/) is a command-line tool designed for open-source projects
     - Core functionality: create a patch to email to a maintainer
     - There is no authoritative copy: all repoositories are equal
+    - See [git diagramts](git-and-branches.md) for more information
   - GitHub provides a hosted git repository that humans treat as authoritative.
     - GitHub provides a web interface with additional functionality.
     - The "Pull Request" is how the server merges patches.
