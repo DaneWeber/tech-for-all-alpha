@@ -1,7 +1,5 @@
 # Alpha
 
-Little change.
-
 > Tech for all
 
 ## Contributors
