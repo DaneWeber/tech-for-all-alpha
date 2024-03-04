@@ -1,8 +1,6 @@
 # Alpha
 
 > Tech for all
->
-> x
 
 ## Contributors
 
