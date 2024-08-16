@@ -31,3 +31,5 @@ Little change.
     - GitHub provides a web interface with additional functionality.
     - The "Pull Request" is how the server merges patches.
   - [GitHub Desktop](https://desktop.github.com/) is a local GUI for git and interacting with GitHub.
+
+[![Build Status](https://dev.azure.com/excellaco/excella-explore/_apis/build/status%2Fexcellaco.excella-explore?branchName=main&jobName=Build)](https://dev.azure.com/excellaco/excella-explore/_build/latest?definitionId=10&branchName=main)
